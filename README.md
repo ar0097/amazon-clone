@@ -11,12 +11,16 @@ To use this project, follow the steps:
 
 Landing Page
 
-![Landing Page](https://github.com/Fatima-Mujahid/amazon-clone-frontend/blob/main/Resources/a1.png)
+![Landing Page]((https://github.com/ar0097/amazon-clone/blob/main/homepage.png?raw=true)
 
 Login Form
 
-![Login Form](https://github.com/Fatima-Mujahid/amazon-clone-frontend/blob/main/Resources/a2.png)
+![Login Form](https://github.com/ar0097/amazon-clone/blob/main/loginpage.png?raw=true)
+
+Empty Basket Detail Page
+
+![Basket Detail Page](https://github.com/ar0097/amazon-clone/blob/main/emptybasketpage.png?raw=true)
 
 Basket Detail Page
 
-![Basket Detail Page](https://github.com/Fatima-Mujahid/amazon-clone-frontend/blob/main/Resources/a3.png)
+![Basket Detail Page](https://github.com/ar0097/amazon-clone/blob/main/basketpage.png?raw=true)
