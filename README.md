@@ -11,7 +11,8 @@ To use this project, follow the steps:
 
 Landing Page
 
-![Landing Page].(https://github.com/ar0097/amazon-clone/blob/main/homepage.png?raw=true)
+![Landing Page](https://github.com/ar0097/amazon-clone/blob/main/homepage.png?raw=true)
+
 
 Login Form
 
