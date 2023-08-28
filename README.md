@@ -1,4 +1,4 @@
-This is frontend for MERN Amazon clone i.e. MERN ecommerce application. Frontend is built with react.
+# Live Preview: [https://clone-dffaf.web.app/](https://tcdpfg-3000.csb.app/)
 
 ### How to Use
 
